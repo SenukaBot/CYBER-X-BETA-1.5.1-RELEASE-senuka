@@ -38,7 +38,7 @@
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/692a7ce2dbc90f34974fc.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
@@ -48,7 +48,7 @@
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/7e8c61254cd7affe62ade.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
